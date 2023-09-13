@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Movie Theatre](https://github.com/Rijinrvr/movie-theatre)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://rijinrvr.github.io/website/](https://rijinrvr.github.io/website/)
+- 👨‍💻 All of my projects are available at [https://rijinrvr.github.io/website/](https://rijinrvr.github.io/CowinWebApplication/)
 
-- 💬 Ask me about **Hi there! I’m a self-taught MERN stack developer who has dedicated months of hard work to mastering my craft. Quality is my top priority and I always strive to deliver the best possible results. I’m proud to have earned a MERN stack development certification from Mashup Stack through self-study. My dedication to continuous learning and improvement is showcased by my self-taught and certified background in MERN stack development from Mashup Stack**
+- 💬 Ask me about **Hi there! I’m a self-taught MERN stack and ASP.NET developer who has dedicated months of hard work to mastering my craft. Quality is my top priority and I always strive to deliver the best possible results. I’m proud to have earned a MERN stack development certification from Mashup Stack through self-study. My dedication to continuous learning and improvement is showcased by my self-taught and certified background in MERN stack development from Mashup Stack**
 
 - 📫 How to reach me **rijinvreji1@gmail.com**
 
