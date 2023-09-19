@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Shopping Cart](https://github.com/Rijinrvr/ShoppingCart-ASP.NET-CORE)
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 👨‍💻 All of my projects are available at [https://rijinrvr.github.io/website/](https://rijinrvr.github.io/CowinWebApplication/)
 
